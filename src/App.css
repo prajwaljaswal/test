@@ -36,3 +36,70 @@
     transform: rotate(360deg);
   }
 }
+
+.p {
+  border-radius: 7px;
+}
+input.form-control.p {
+  height: 4rem;
+}
+
+.bg-secondary {
+  background-color: rgb(243, 237, 237)!important;
+}
+.badge{
+    width: 6rem;
+    height: 2.5rem;
+    border-radius: 8px;
+    
+}
+p{
+  color: rgb(231, 220, 220);
+  font-weight: bold;
+}
+.pt-2, .py-2 {
+  padding-top: 1rem!important;
+}
+badge.rad{
+  
+  width: 6rem;
+  height: 2.5rem;
+  border-radius: 15px;
+}
+.react-toggle--checked .react-toggle-track {
+  background-color : goldenrod!important;
+}
+.react-toggle--checked .react-toggle-thumb {
+  left: 27px;
+  border-color: goldenrod!important
+}
+.react-toggle:hover:not(.react-toggle--disabled) .react-toggle-track {
+  background-color: goldenrod!important;
+}
+.react-toggle-track {
+
+  background-color: goldenrod!important;
+  }
+  .svg{
+    display: none!important;
+  }
+
+  .tk {
+    background-color: goldenrod!important;
+  }
+  .pk{
+    color : goldenrod;
+  }
+  .sk{
+    border-radius: 20px!important;
+  }
+  li{
+    color: gray;
+  }
+  ::placeholder{
+    color: black !important;
+    display: flex !important;
+    text-align: end !important;
+    font-weight: bolder !important;
+
+  }
